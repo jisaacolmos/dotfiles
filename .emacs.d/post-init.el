@@ -282,6 +282,8 @@
  :init (setq elisp-autofmt-on-save-p 'always)
  :hook (emacs-lisp-mode . elisp-autofmt-mode))
 
+(use-package highlight-escape-sequences :ensure t :hook (prog-mode . hes-mode))
+
 ;; Funcs
 
 
