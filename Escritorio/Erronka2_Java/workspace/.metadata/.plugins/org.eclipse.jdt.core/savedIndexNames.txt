@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/j0lms/Escritorio/Erronka2_Java/workspace/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+2213758705.index
+1865797976.index

@@ -1,0 +1,7 @@
+#btnEntrance {
+  width: 100%;
+  height: 100px;
+  cursor: pointer;
+  background-color: blueviolet;
+  border: none;
+}

@@ -1,0 +1,32 @@
+/*
+Hello World
+*/
+
+public class HelloWorld {
+    public static void main(String[] args) {
+
+        // Single line comment
+
+        /*
+        Multiple line comment
+        */
+
+        // Use of println
+        // -------------------------
+
+        // Print text on console, adds a new line
+        System.out.println("Hello Acolytes. Welcome to hell!");
+        System.out.println(" ");
+        System.out.println("Be careful in the DAW1 vault ");
+        
+        // Use of print
+        // -------------------------
+
+        // Print text on console, doesn't add a new line
+        System.out.print("Hello Acolytes. Welcome to hell!");
+        System.out.print(" ");
+        System.out.print("Be careful in the DAW1 vault ");
+
+        // System.out. + SPACE = list candidates is VS Code
+    }
+}
