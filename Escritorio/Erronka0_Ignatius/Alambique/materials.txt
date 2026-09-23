@@ -1,4 +1,0 @@
-Ingredients: Constance's Balm,Elixir of Ethazi,Challenger's Root,Agile Essence,Learning Leaf,Hard-working Herb,Suffering Shade,Panic Petal,Struggle Sprout,Giant's Torture,Scrumberry Extract,Erudite Essence,Resilience Root,Daily Dew,Sprint Blossom,Learning Lotus,Ethazi Ember,Constance Crystal,Sacrifice Bush,Agile Aether,Learning Vial,Panic Hawthorn,Ethazi Essence,Discipline Dust,Assessment Amethyst,Collaborative Clover,Struggle Laudanum,Suffering Sapphire,Hard-working Hawthorn,Tortured Outlaw,Discipline Finger,Scrum Serpent Scale,Hard-working Firethorn,Collaborative Fern,Learning Skull,Sacrifice Sage,Erudite Eelgrass,Assessment Amber,Resilience Rose,Mystic Daily
-Container: Cauldron
-Energy: Bonfire
-Unknown: ETHAZIUM
