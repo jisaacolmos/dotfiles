@@ -12,8 +12,8 @@ if status is-interactive
 
     # Path
 
-    fish_add_path /home/j0lms/.local/bin
-    fish_add_path /home/j0lms/Descargas/jdt-language-server-1.9.0-202203031534/bin
+    fish_add_path $HOME/.local/bin
+    fish_add_path $HOME/Descargas/jdt-language-server-1.9.0-202203031534/bin
 
     # Aliases
 
