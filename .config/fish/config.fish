@@ -80,6 +80,7 @@ if status is-interactive
     alias glo='git log --oneline'
     alias gss='git status -s'
     alias ga='git add'
+    alias gau='git add -u'
     alias gm='git merge'
     alias grh='git reset HEAD'
     alias grhh='git reset HEAD --hard'
