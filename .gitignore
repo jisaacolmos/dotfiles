@@ -52,6 +52,8 @@ Vídeos/
 /.emacs.d/README.md
 /.emacs.d/.gitignore
 /.emacs.d/.LICENSE
+!/.emacs.d/pre-init.el
+!/.emacs.d/post-init.el
 .icons/
 .linuxmint/
 .local/
